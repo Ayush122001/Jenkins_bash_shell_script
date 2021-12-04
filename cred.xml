@@ -1,0 +1,7 @@
+<com.cloudbees.plugins.credentials.impl.UsernamePasswordCredentialsImpl >
+  <scope>GLOBAL</scope>
+  <id>slaveAuth</id>
+  <username>jenkins</username>
+  <password>jenkins</password>
+  <description>Slave user name and password</description>
+</com.cloudbees.plugins.credentials.impl.UsernamePasswordCredentialsImpl>
